@@ -5,12 +5,7 @@ body{
     background-image : url("background-1747786_1280.jpg");
 }
 
-.border {
 
-
-border: 155 px solid transparent;
-
-}
 
 h1{
 
@@ -30,10 +25,10 @@ font-size: 20px;
 
 {
 
-font-size: 48;
+font-size: 48px;
 
 color: black;
-filter: blur (3 px);
+
 text-align: center;
 }
 
